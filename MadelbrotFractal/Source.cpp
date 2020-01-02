@@ -5,6 +5,7 @@
 #include <iostream>
 #include <ctime>
 #include <amp.h> 
+
 using namespace concurrency;
 using std::vector;
 using glm::vec3;
