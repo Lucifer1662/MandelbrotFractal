@@ -1,0 +1,11 @@
+{
+    "name": "Mandel Brot Fractal",
+    "description": "Renders the Mandelbrot Fractal",
+    "template": {
+        "StackPanel": {
+            "Title": "Mandel Brot Fractal",
+            "Description": "Renders the Mandelbrot Fractal",
+            "Image": "img1.png"
+        }
+    }
+}
